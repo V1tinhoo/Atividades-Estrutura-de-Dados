@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitin\\Desktop\\Estrutura-de-Dados-main\\Projetos\\JogodaVelha\\JogoDaVelha.csproj": {}
+    "C:\\Users\\vitin\\Desktop\\Atividades estrutura de dados 2\\Projetos\\JogodaVelha\\JogoDaVelha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitin\\Desktop\\Estrutura-de-Dados-main\\Projetos\\JogodaVelha\\JogoDaVelha.csproj": {
+    "C:\\Users\\vitin\\Desktop\\Atividades estrutura de dados 2\\Projetos\\JogodaVelha\\JogoDaVelha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitin\\Desktop\\Estrutura-de-Dados-main\\Projetos\\JogodaVelha\\JogoDaVelha.csproj",
+        "projectUniqueName": "C:\\Users\\vitin\\Desktop\\Atividades estrutura de dados 2\\Projetos\\JogodaVelha\\JogoDaVelha.csproj",
         "projectName": "JogoDaVelha",
-        "projectPath": "C:\\Users\\vitin\\Desktop\\Estrutura-de-Dados-main\\Projetos\\JogodaVelha\\JogoDaVelha.csproj",
+        "projectPath": "C:\\Users\\vitin\\Desktop\\Atividades estrutura de dados 2\\Projetos\\JogodaVelha\\JogoDaVelha.csproj",
         "packagesPath": "C:\\Users\\vitin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitin\\Desktop\\Estrutura-de-Dados-main\\Projetos\\JogodaVelha\\obj\\",
+        "outputPath": "C:\\Users\\vitin\\Desktop\\Atividades estrutura de dados 2\\Projetos\\JogodaVelha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vitin\\AppData\\Roaming\\NuGet\\NuGet.Config"

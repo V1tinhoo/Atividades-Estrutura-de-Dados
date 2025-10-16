@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("jaggedArrays")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Bubble Sort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("jaggedArrays")]
-[assembly: System.Reflection.AssemblyTitleAttribute("jaggedArrays")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60df973790d02d58118a6e436b228de06c886efc")]
+[assembly: System.Reflection.AssemblyProductAttribute("Bubble Sort")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Bubble Sort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

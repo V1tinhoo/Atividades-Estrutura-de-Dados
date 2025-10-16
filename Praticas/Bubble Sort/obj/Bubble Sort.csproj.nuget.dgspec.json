@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maiih\\Downloads\\Estrutura-de-Dados\\jaggedArrays\\jaggedArrays.csproj": {}
+    "C:\\Users\\Luiz Santos\\Desktop\\Estrutura-de-Dados-2025\\Bubble Sort\\Bubble Sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maiih\\Downloads\\Estrutura-de-Dados\\jaggedArrays\\jaggedArrays.csproj": {
+    "C:\\Users\\Luiz Santos\\Desktop\\Estrutura-de-Dados-2025\\Bubble Sort\\Bubble Sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maiih\\Downloads\\Estrutura-de-Dados\\jaggedArrays\\jaggedArrays.csproj",
-        "projectName": "jaggedArrays",
-        "projectPath": "C:\\Users\\maiih\\Downloads\\Estrutura-de-Dados\\jaggedArrays\\jaggedArrays.csproj",
-        "packagesPath": "C:\\Users\\maiih\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maiih\\Downloads\\Estrutura-de-Dados\\jaggedArrays\\obj\\",
+        "projectUniqueName": "C:\\Users\\Luiz Santos\\Desktop\\Estrutura-de-Dados-2025\\Bubble Sort\\Bubble Sort.csproj",
+        "projectName": "Bubble Sort",
+        "projectPath": "C:\\Users\\Luiz Santos\\Desktop\\Estrutura-de-Dados-2025\\Bubble Sort\\Bubble Sort.csproj",
+        "packagesPath": "C:\\Users\\Luiz Santos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luiz Santos\\Desktop\\Estrutura-de-Dados-2025\\Bubble Sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maiih\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Luiz Santos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
