@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\maiih\\.nuget\\packages\\": {}
+    "C:\\Users\\vitin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maiih\\Filas\\Filas.csproj",
+      "projectUniqueName": "C:\\Users\\vitin\\Desktop\\Atividades estrutura de dados 2\\Praticas\\Filas\\Filas.csproj",
       "projectName": "Filas",
-      "projectPath": "C:\\Users\\maiih\\Filas\\Filas.csproj",
-      "packagesPath": "C:\\Users\\maiih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maiih\\Filas\\obj\\",
+      "projectPath": "C:\\Users\\vitin\\Desktop\\Atividades estrutura de dados 2\\Praticas\\Filas\\Filas.csproj",
+      "packagesPath": "C:\\Users\\vitin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vitin\\Desktop\\Atividades estrutura de dados 2\\Praticas\\Filas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maiih\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\vitin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"

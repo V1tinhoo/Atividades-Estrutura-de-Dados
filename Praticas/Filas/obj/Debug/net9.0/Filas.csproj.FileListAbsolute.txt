@@ -12,3 +12,18 @@ C:\Users\maiih\Filas\obj\Debug\net9.0\refint\Filas.dll
 C:\Users\maiih\Filas\obj\Debug\net9.0\Filas.pdb
 C:\Users\maiih\Filas\obj\Debug\net9.0\Filas.genruntimeconfig.cache
 C:\Users\maiih\Filas\obj\Debug\net9.0\ref\Filas.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\bin\Debug\net9.0\Filas.exe
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\bin\Debug\net9.0\Filas.deps.json
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\bin\Debug\net9.0\Filas.runtimeconfig.json
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\bin\Debug\net9.0\Filas.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\bin\Debug\net9.0\Filas.pdb
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\obj\Debug\net9.0\Filas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\obj\Debug\net9.0\Filas.AssemblyInfoInputs.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\obj\Debug\net9.0\Filas.AssemblyInfo.cs
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\obj\Debug\net9.0\Filas.csproj.CoreCompileInputs.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\obj\Debug\net9.0\Filas.sourcelink.json
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\obj\Debug\net9.0\Filas.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\obj\Debug\net9.0\refint\Filas.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\obj\Debug\net9.0\Filas.pdb
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\obj\Debug\net9.0\Filas.genruntimeconfig.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\Filas\obj\Debug\net9.0\ref\Filas.dll

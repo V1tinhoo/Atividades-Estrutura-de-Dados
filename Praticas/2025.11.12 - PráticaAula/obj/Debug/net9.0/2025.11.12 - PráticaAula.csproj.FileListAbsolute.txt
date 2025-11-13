@@ -1,0 +1,15 @@
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\bin\Debug\net9.0\2025.11.12 - PráticaAula.exe
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\bin\Debug\net9.0\2025.11.12 - PráticaAula.deps.json
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\bin\Debug\net9.0\2025.11.12 - PráticaAula.runtimeconfig.json
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\bin\Debug\net9.0\2025.11.12 - PráticaAula.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\bin\Debug\net9.0\2025.11.12 - PráticaAula.pdb
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\obj\Debug\net9.0\2025.11.12 - PráticaAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\obj\Debug\net9.0\2025.11.12 - PráticaAula.AssemblyInfoInputs.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\obj\Debug\net9.0\2025.11.12 - PráticaAula.AssemblyInfo.cs
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\obj\Debug\net9.0\2025.11.12 - PráticaAula.csproj.CoreCompileInputs.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\obj\Debug\net9.0\2025.11.12 - PráticaAula.sourcelink.json
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\obj\Debug\net9.0\2025.11.12 - PráticaAula.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\obj\Debug\net9.0\refint\2025.11.12 - PráticaAula.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\obj\Debug\net9.0\2025.11.12 - PráticaAula.pdb
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\obj\Debug\net9.0\2025.11.12 - PráticaAula.genruntimeconfig.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - PráticaAula\obj\Debug\net9.0\ref\2025.11.12 - PráticaAula.dll

@@ -1,0 +1,15 @@
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\bin\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.exe
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\bin\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.deps.json
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\bin\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.runtimeconfig.json
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\bin\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\bin\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.pdb
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\obj\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\obj\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.AssemblyInfoInputs.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\obj\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.AssemblyInfo.cs
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\obj\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.csproj.CoreCompileInputs.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\obj\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.sourcelink.json
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\obj\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\obj\Debug\net9.0\refint\2025.11.12 - BuscaLinearSentinela.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\obj\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.pdb
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\obj\Debug\net9.0\2025.11.12 - BuscaLinearSentinela.genruntimeconfig.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados 2\Praticas\2025.11.12 - BuscaLinearSentinela\obj\Debug\net9.0\ref\2025.11.12 - BuscaLinearSentinela.dll
